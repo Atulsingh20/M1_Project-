@@ -7,10 +7,10 @@ it's calculate
 
 
 ## Functionality Provided
-1. Coustumer will be purchase shoes,clothing,tshirts jeans and many more of different brand .
-2. Coustumer can able to add multiple ittem .
-3. Coustumer can reduce the item and add new item.
-4. Coustumer can see their total at the end of shopping and get the bill .
+1. customer will be purchase shoes,clothing,tshirts jeans and many more of different brand .
+2. customer can able to add multiple ittem .
+3. customer can reduce the item and add new item.
+4. customer can see their total at the end of shopping and get the bill .
 
 ## Approach 
 Firstly the main menu will be appear on screen to the customer. Then you have to enter you name by which you are going to continue the shopping, than all the available product will appear on your screen.them the customer have to select the iteam or product and than he add to cart. IF cmer want to countine shopping than  they can add the more iteam in the cart and countine their shopping .Once the shooping is completed than the customer see their iteam,quantity , cost f every product and the total bill. Finally the total amount to be paid on display.
