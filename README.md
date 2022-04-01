@@ -1,8 +1,7 @@
 # Introduction 
 
 This is an online shopping application project which is based on c programming . 
-In this project we used switch cases ,function ,array and pointer.It calculate the  total ammount for the selected iteam which is selected by customer.
-it's calculate 
+In this project i used switch cases ,function ,array and pointer.It calculate the  total ammount for the selected iteam which is selected by customer.
 
 
 
@@ -13,7 +12,7 @@ it's calculate
 4. customer can see their total at the end of shopping and get the bill .
 
 ## Approach 
-Firstly the main menu will be appear on screen to the customer. Then you have to enter you name by which you are going to continue the shopping, than all the available product will appear on your screen.them the customer have to select the iteam or product and than he add to cart. IF cmer want to countine shopping than  they can add the more iteam in the cart and countine their shopping .Once the shooping is completed than the customer see their iteam,quantity , cost f every product and the total bill. Finally the total amount to be paid on display.
+Firstly the main menu will be appear on screen to the customer. Then you have to enter you name by which you are going to continue the shopping, than all the available product will appear on your screen.them the customer have to select the iteam or product and than he add to cart. IF customer want to countine shopping than  they can add the more iteam in the cart and countine their shopping .Once the shooping is completed than the customer see their iteam,quantity , cost f every product and the total bill. Finally the total amount to be paid on display.
 
 ## The implementation of the functionality 
 The below provided link take you to the C coding of the application :
