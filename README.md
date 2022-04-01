@@ -24,19 +24,30 @@ The below provided link take you to the C coding of the application :
  ![Screenshot (12)](https://user-images.githubusercontent.com/101882303/161274029-4b3ec201-f559-42e7-ae13-3f75592ee446.png)
 
 ## Denonstration 
-## Step 1: Firstly, (char items[]) is constructed , which store the product details i.e brands name ,cost and varitey .
+## Step 1: 
+
+Firstly, (char items[]) is constructed , which store the product details i.e brands name ,cost and varitey .
 ![Screenshot (13)](https://user-images.githubusercontent.com/101882303/161277095-2b8182e3-de75-47d7-b6fb-b70905738332.png)
 
-## step 2: Ask for detail of coustumer for example -' Please Enter Your Name'.In my code get(str) and printf use for welcoming the coustumer :
+
+## step 2: 
+Ask for detail of coustumer for example -' Please Enter Your Name'.In my code get(str) and printf use for welcoming the coustumer :
 ![Screenshot (13)](https://user-images.githubusercontent.com/101882303/161278081-b74202a4-6984-4643-84fd-9f8322ff8d19.png)
 
-## step 3: After that it's give choice to the coustumer to select the Product in which they have number of brand with differnt price range . whenever coustumer select their items, they need tu enter 1 tu continue th shopping and see the total bill,if coutumer want to continue heri shopping they have to  enter 2 or if they want to end the shopping they have to press any other number . with the help of loop and switch statment hole function run.
+
+## step 3: 
+After that it's give choice to the coustumer to select the Product in which they have number of brand with differnt price range . whenever coustumer select their items, they need tu enter 1 tu continue th shopping and see the total bill,if coutumer want to continue heri shopping they have to  enter 2 or if they want to end the shopping they have to press any other number . with the help of loop and switch statment hole function run.
 ![Screenshot (13)](https://user-images.githubusercontent.com/101882303/161280970-fc9fddbb-289c-4f36-b348-4994c93b849b.png)
 
-## step 4: If coustumer want to buy product of any other category ? "Enter your choice" message shown on the screen .if coustumer enter any invalid value the "Enter Valid Categories Choice" is pop up on the screen .
+
+
+## step 4: 
+If coustumer want to buy product of any other category ? "Enter your choice" message shown on the screen .if coustumer enter any invalid value the "Enter Valid Categories Choice" is pop up on the screen .
 ![Screenshot (13)](https://user-images.githubusercontent.com/101882303/161282475-fb11c93d-2997-45e2-a31d-d2cb11b01492.png)
 
-## step 5: At last ,if coustumer want to delete any product they have to enter theri id and select the product,whenever iteam is delete the price of that product will deduct from total ammount. The total amount and the cost of every product will shown on screen i.e 'Your Total Purchase Bill' and the service will end by Thank You message "Thanks %s for Shopping and Visit again to Brand Store".
+
+## step 5: 
+At last ,if coustumer want to delete any product they have to enter theri id and select the product,whenever iteam is delete the price of that product will deduct from total ammount. The total amount and the cost of every product will shown on screen i.e 'Your Total Purchase Bill' and the service will end by Thank You message "Thanks %s for Shopping and Visit again to Brand Store".
 ![Screenshot (13)](https://user-images.githubusercontent.com/101882303/161284092-af9a1e4a-2742-432c-a697-5463dcd62af6.png)
 
 
