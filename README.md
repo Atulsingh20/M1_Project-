@@ -1,4 +1,4 @@
-# Intr0duction 
+# Introduction 
 
 This is an online shopping application project which is based on c programming . 
 In this project we used switch cases ,function ,array and pointer.It calculate the  total ammount for the selected iteam which is selected by customer.
