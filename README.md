@@ -18,3 +18,8 @@ Firstly the main menu will be appear on screen to the coustumer. Then you have t
 ## The implementation of the functionality 
 The below provided link take you to the C coding of the application :
  https://github.com/Atulsingh20/M1_Project-/blob/d8bea39ed521d245b3edf7a5f3ae865c2e7173fe/project_shopping.c# M1_Project-
+ 
+ ## output 
+ 
+ ![Screenshot (12)](https://user-images.githubusercontent.com/101882303/161274029-4b3ec201-f559-42e7-ae13-3f75592ee446.png)
+
