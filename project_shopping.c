@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<conio.h>
-#include<window.h>
+#include<windows.h>
  main()
 {
  static int totalCost;
