@@ -1,0 +1,81 @@
+This test plan for website cross browser testing supports the following objectives:
+To define the the tools to be used throughout the testing process.
+To communicate to the responsible parties the items to be tested, set expectations
+around schedule, and define environmental needs.
+To define how the tests will be conducted.
+Test Items
+The systems to be tested include the frontend customer-facing website along with the back-end
+e-commerce admin platform. These systems should be tested in the latest stable versions of
+Chrome, FireFox, Safari, and Microsoft Edge.
+The systems should be tested on both a Windows and Mac machine.
+Features To Be Tested
+Features to be tested include the following:
+ As a shopper, logging into the website as a shopper
+ As a shopper, navigating the store
+As a shopper, adding items to a shopping cart
+ As a shopper, removing items from a shopping cart
+ As a shopper, purchasing multiple units of the same item
+ As a shopper, initiating a return
+ As a shopper, contacting support
+ As a shopper, completing an order cycle
+ As a shopper, cancelling an order
+ As a shopper, leaving a review
+ As an admin, granting a refund
+ As an admin, fulfilling an order
+ As an admin, answering a support inquiry
+ As an admin, moderating reviews
+ As an admin, validating in-stock/out-of-stock
+Features Not To Be Tested
+Mobile purchasing through a mobile device will not be tested. Only desktop web browser
+functionality will be tested.
+Approach
+Tests will be conducted per the documented test cases stored in TestLodge. The test manager
+will create test runs for each tester. The tester will execute the tests in TestLodge and mark
+each case as Pass / Fail / Skip. The tester should leave notes on actual results and any other
+relevant details when possible.
+When tests are marked as Fail, bug reports will automatically be created in the issue tracker
+integrated with TestLodge.
+Once complete, the test manager should review the test run reports in TestLodge and report
+back to the team accordingly.
+Pass/Fail Criteria
+All core functionality of the systems should function as expected and outlined in the individual
+test cases. There must be no critical defects found and an end user must be able to complete a
+purchase cycle successfully and initiate a refund without any errors. 95% of all test cases
+should pass and no failed cases should be crucial to the end-user’s ability to use the
+application.
+Suspension Criteria
+Testing should be paused immediately if either system experiences login issues or failure in any
+basic CRUD (Create, Read, Update and Delete) actions.
+Test Deliverables
+Upon completion, the test run results will be saved in TestLodge and the test manager should
+then run a report for all completed tests.
+Testing Tasks
+The following activities must be completed:
+ Test plan prepared.
+ Functional specifications written and delivered to the testing team
+ Environment should be ready for testing (test data, test logins, test payment information,
+etc).
+ Perform the tests.
+ Prepare test summary report.
+Environmental Needs
+The test site must be populated with test data including a variety of products with different
+prices. Test mode should be enabled for the backend e-commerce platform.
+Responsibilities
+The Test Manager is responsible for facilitating the testing project, coordinating availability and
+schedule of testers and training them as needed. Each tester should understand the
+expectations on completion date and level of quality. The Test Manager should also
+communicate any risks to the team.
+Staffing And Training Needs
+Testing should be done by two testers. Both testers should conduct testing on each system. The
+testers assigned should have basic knowledge of the e-commerce platform.
+Schedule
+Testing will take place 4 weeks prior to the launch date. The first round of testing should be
+completed in 1 week.
+Risks And Contingencies
+If the first round of testing is not completed within 1 week, it could delay bug fixes and final
+testing. If this happens, UAT would be pushed back and eventual affect the launch date.
+If the testers don’t have a basic understanding the e-commerce platform, testing could be
+delayed or not conducted properly.
+Approvals
+The test manager and product manage both must agree on completion of the testing project and
+determine when it’s ready to proceed to the next step
